@@ -1,0 +1,26 @@
+{
+  "name": "node-real-time-streamming-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard --fix",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscaroceguera/node-real-time-streamming-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscaroceguera/node-real-time-streamming-data/issues"
+  },
+  "homepage": "https://github.com/oscaroceguera/node-real-time-streamming-data#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12",
+    "standard": "^16.0.3"
+  }
+}
